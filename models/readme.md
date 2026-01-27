@@ -1,1 +1,1 @@
-File for model collection
+Directory for model collection
